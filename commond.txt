@@ -1,4 +1,4 @@
-git常用命令
+git常用命令sourcetree
 ctrl + C + C  ； 强制终止当前运行程序；
 
 cd 文件名: 进入相应的文件;
